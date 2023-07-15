@@ -14,13 +14,7 @@
 
 #### password: Instructor@123
 
-<h3>Welcome to Language School!</h3>
-
-At Language School, we believe that language learning should be an exciting and immersive experience. We are dedicated to providing high-quality language education that fosters communication skills, cultural understanding, and a lifelong passion for languages.
-
-Join us on this linguistic adventure and unlock the doors to global communication. Explore our range of language programs today and embark on a transformative learning experience.
-
-Open New Horizons: Immerse Yourself in the Art of Language at Language School – Where Fluency Fuels Boundless Connections!
+### Student access with gmail account
 
 ## Live Website Link:
 
@@ -40,33 +34,21 @@ https://language-school-server-production.up.railway.app/
 
 #### Vercel :
 
-#### Railway :
-
 ## Features of this Project
 
-1. Full project is made with responsive design for both smartphone and PC.
-2. A Navbar with navigation options, profile picture when logged in and a login button. Active styles for different routes on the Navbar also added.
-3. Homepage with a Carousel, Popular Instructors, Popular Classes, Statistics, Testimonials, Upcoming Course and Newsletter sections. Here Statistics, Testimonials, Upcoming Course and Newsletter are extra sections added as per the requirements.
-4. Lazy image loading feature implemented for better performance and user experience.
-5. Clicking on the Select Class button will add booking class information in the database.
-6. An Error handling (404) page with error message and animated text and image added for error handling.
-7. Dashboard added for Admin, Students and Instructors.
-8. Dynamic title on the tab added which changes with the menu using custom hook.
-9. Used Railway for server side deployment. (As vercel has some issue regarding data loading)
-10. When reloaded page not found error handling for different routes and live server.
-11. Toast alerts for various user activities.
-12. User's Name and Photo URL update functionality added when registering with email and password.
+1. Responsive for Desktop and Phone Device
+2. For CSS use tailwindcss and daisyui
+3. React Icons
+4. installed helmet for title
+5. swiper slider
+6. For login form used react-simple-captcha
+7. react-hook-form
+8. tanstack for react query
+9. sweetalert2 for poup allert
+10. for effect used motion affect
+11. for reload data axios
+12. firebase
 13. React Icons added.
-14. Show/Hide password feature added in Login and Registration page.
-15. Accept terms and conditions to continue with the registration process functionality added.
-16. User profile added with update functionality.
-17. Social login functionality added using Google Firebase.
-18. React lazy load added for better user experience and optimization.
-19. Contact and About page added as extra features.
-20. AOS animation added on different sections of Home page.
-21. React Awesome Reveal animation added on Banner of Home, Instructors, Classes, About, Contact and Dashboard pages.
-22. React Icons added.
-23. React Helmet Async used for SEO optimization.
 
 ## Packages/Services/Font Used:
 
