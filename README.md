@@ -1,13 +1,16 @@
-# b712-summer-camp-client-side-faridrony55
+# Art Gallery
 
-# <h1 align="middle"> ![Language School](src/assets/images/logo.png) Language School</h1>
+# <h1 align="middle"> School of Art Gallery</h1>
 
-admin
-admin@admin.com
-Admin@123
+## Admin Access:
 
-instructor@gmail.com
-Instructor@123
+email: admin@admin.com
+password: Admin@123
+
+## Instructor Access
+
+email: instructor@gmail.com
+password: Instructor@123
 
 <h3>Welcome to Language School!</h3>
 
