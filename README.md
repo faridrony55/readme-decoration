@@ -63,8 +63,8 @@ https://language-school-server-production.up.railway.app/
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>headlessUI</td>
-      <td>https://headlessui.com/react/dialog</td>
+      <td>helmet</td>
+      <td>https://www.npmjs.com/package/react-helmet</td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -78,18 +78,13 @@ https://language-school-server-production.up.railway.app/
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>Flowbite</td>
-      <td>https://flowbite.com/docs/getting-started/react/</td>
+      <td>Swiper Slider</td>
+      <td>https://swiperjs.com/react</td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>React Icons</td>
       <td>https://react-icons.github.io/react-icons</td>
-    </tr>
-    <tr>
-      <td align="center">6</td>
-      <td>React Rating</td>
-      <td>https://react-rating.onrender.com/</td>
     </tr>
     <tr>
       <td align="center">7</td>
@@ -100,37 +95,17 @@ https://language-school-server-production.up.railway.app/
       <td align="center">8</td>
       <td>Firebase</td>
       <td>https://firebase.google.com</td>
-    </tr>
-    <tr>
-      <td align="center">9</td>
-      <td>Google Font</td>
-      <td>https://fonts.google.com/specimen/Poppins</td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td>Lottie React</td>
-      <td>https://www.npmjs.com/package/lottie-react</td>
-    </tr>
+    </tr>  
     <tr>
       <td align="center">11</td>
-      <td>React Toastify</td>
-      <td>https://www.npmjs.com/package/react-toastify</td>
-    </tr>
-    <tr>
-      <td align="center">12</td>
-      <td>React Lazy Load</td>
-      <td>https://github.com/loktar00/react-lazy-load</td>
-    </tr>
+      <td>react-simple-captcha</td>
+      <td>https://www.npmjs.com/package/react-simple-captcha</td>
+    </tr> 
     <tr>
       <td align="center">13</td>
-      <td>AOS</td>
-      <td>https://www.npmjs.com/package/aos</td>
-    </tr>
-    <tr>
-      <td align="center">14</td>
-      <td>React Hook Form</td>
-      <td>https://www.react-hook-form.com/</td>
-    </tr>
+      <td>react-hook-form</td>
+      <td>https://react-hook-form.com/get-started</td>
+    </tr> 
     <tr>
       <td align="center">15</td>
       <td>SweetAlert2</td>
@@ -145,38 +120,12 @@ https://language-school-server-production.up.railway.app/
       <td align="center">17</td>
       <td>TanStack Query</td>
       <td>https://tanstack.com/query/latest</td>
-    </tr>
-    <tr>
-      <td align="center">18</td>
-      <td>React Responsive Carousel</td>
-      <td>https://react-responsive-carousel.js.org/</td>
-    </tr>
-    <tr>
-      <td align="center">19</td>
-      <td>React Awesome Reveal</td>
-      <td>https://react-awesome-reveal.morello.dev/docs/getting-started</td>
-    </tr>
+    </tr>  
     <tr>
       <td align="center">20</td>
-      <td>React Helmet Async</td>
-      <td>https://www.npmjs.com/package/react-helmet-async</td>
+      <td>framer-motion</td>
+      <td>https://www.framer.com/motion/introduction/</td>
     </tr>
-    <!-- <tr>
-      <td align="center">12</td>
-      <td>Swiper</td>
-      <td>https://swiperjs.com/react</td>
-    </tr> -->
-    <!-- 
-      <tr>
-        <td align="center">12</td>
-        <td>NAME</td>
-        <td>LINK</td>
-      </tr>
-      <tr>
-        <td align="center">12</td>
-        <td>NAME</td>
-        <td>LINK</td>
-      </tr> 
-    -->
+    
   </tbody>
 </table>
