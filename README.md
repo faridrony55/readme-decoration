@@ -4,13 +4,15 @@
 
 ## Admin Access:
 
-email: admin@admin.com
-password: Admin@123
+#### email: admin@admin.com
+
+#### password: Admin@123
 
 ## Instructor Access
 
-email: instructor@gmail.com
-password: Instructor@123
+#### email: instructor@gmail.com
+
+#### password: Instructor@123
 
 <h3>Welcome to Language School!</h3>
 
